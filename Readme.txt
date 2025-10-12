@@ -1,6 +1,1 @@
-Thanks for downloading this template!
-
-Template Name: PhotoFolio
-Template URL: https://bootstrapmade.com/photofolio-bootstrap-photography-website-template/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+This is a dynamic website called ThePromptVerse, designed to showcase and share creative Google Gemini prompts. It is built using HTML, CSS, Bootstrap, and JavaScript, featuring an interactive gallery layout that allows users to explore, copy, and use prompts easily. The site’s functionality is powered by custom scripts that enable responsive design, clipboard copying, and modern UI interactions for an optimized user experience.
